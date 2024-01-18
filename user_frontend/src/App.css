@@ -1,0 +1,16 @@
+.background{
+    background-image: url(./Images/MacBook\ Air\ -\ 1final.png);
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+
+.row{
+    height: 100vh;
+}
+
+.image{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
