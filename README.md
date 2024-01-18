@@ -39,7 +39,7 @@ This project demonstrates a simple implementation of user authentication using R
 
   2.Set up the React frontend:
 
-    cd frontend
+    cd user_frontend
     npm install
     npm start
 
